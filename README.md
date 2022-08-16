@@ -16,8 +16,8 @@ Test server: [``ely.su``](https://hotmc.ru/minecraft-server-203216)
 
 ## See also
 
-- [LimboAuth](https://github.com/Elytrium/LimboAuth) - Auth System built in virtual server (Limbo). Uses BCrypt, has TOTP 2FA feature. Supports literally any database due to OrmLite.
-- [LimboAPI](https://github.com/Elytrium/LimboAPI) - Library for sending players to virtual servers (called limbo)
+- [LimboAuth](https://github.com/PROFESSOR-SAAB/LimboAuth) - Auth System built in virtual server (Limbo). Uses BCrypt, has TOTP 2FA feature. Supports literally any database due to OrmLite.
+- [LimboAPI](https://github.com/PROFESSOR-SAAB/LimboAPI) - Library for sending players to virtual servers (called limbo)
 
 ## Features of LimboFilter
 
